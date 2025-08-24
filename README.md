@@ -10,3 +10,4 @@ Open Rofi: Super+D
 Floating window: Super+A
 Open browser (ZEN BROWSER FLATPAK VERSION): Super+C
 Open spotify (FLATPAK VERSION): Super+K
+<img width="1920" height="1080" alt="Xd" src="https://github.com/user-attachments/assets/c4187d1c-da2f-4c07-99af-c5d22cc5c162" />
