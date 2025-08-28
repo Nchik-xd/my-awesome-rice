@@ -1,0 +1,52 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/master/doc/json_schema.json",
+
+  "logo":{
+	  "source":"~/.config/fastfetch/ff.jpg",
+	  "type":"kitty",
+	  "height": 11,
+	  "width": 25
+},
+"modules": [
+    "title",
+    "separator",
+    {
+	"type":"os",
+	"key":"OS->",
+	"format": "NchikOs 320kg"
+    },
+    {
+	"type":"cpu",
+	"key":"CPU->",
+	"format":"Intel Core i7-3610QM"
+    },
+    {
+    "type":"gpu",
+    "key":"GPU->",
+    "format":"Nvidia GT 650M"
+    },
+    {
+    "type":"display",
+    "key":"Display->",
+    "format":"built-in 60hz"
+    },
+    {
+    "type":"memory",
+    "key":"Memory->"
+    },
+    {
+    "type":"disk",
+    "key":"Disk->"
+    },
+    {
+    "type":"wm",
+    "key":"Wm->"
+    },
+    {
+    "type":"terminal",
+    "key":"Terminal->",
+    "format":"Kitty"
+    }
+
+  ]
+}
