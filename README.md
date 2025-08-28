@@ -21,5 +21,5 @@ Floating window: Super+A
 Open browser: (ZEN BROWSER FLATPAK VERSION): Super+C
 
 
-Open yt music: Super+K
+Open yt music: Super+V
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8cadb1f2-e7ad-45cb-a5cd-6d90502abb35" />
