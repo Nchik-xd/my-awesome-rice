@@ -95,7 +95,7 @@ tooltip {
   font-weight: bold;
   border: solid;
   border-width: 3px;
-  border-color: rgba(255, 255, 0, 1);
+  border-color: @background;
 }
 
 /* wireplumber */
@@ -124,7 +124,7 @@ tooltip {
   box-shadow: none;
 }
 #workspaces button.active {
-  background-color: rgba(255, 250, 0, 1);
+  background-color: rgba(255, 255, 0, 1);
   padding: 4px 20px;
   transition: padding 0.4s;
 }
