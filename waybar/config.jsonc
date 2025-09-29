@@ -5,14 +5,13 @@
 	"margin-top": 10,
 	"margin-bottom": 0,
 	"layer": "top",
-	"height": 16,
+	"height": 15,
 	"margin-left": 0,
 	"margin-right": 0,
 	"spacing": 0,
 
 	// Modules left
 	"modules-left": [
-		"wlr/taskbar"
 	],
 
 	// Modules center
@@ -152,7 +151,7 @@
     		},
     		"rewrite": {
         		"Firefox Web Browser": "Firefox",
-        		"Foot Server": "Terminal"
+        		"kitty": "Terminal"
 		}
 	},
 	"custom/applauncher": {
@@ -172,7 +171,7 @@
 	},
 	"custom/shutdown": {
 		"format": "⏻",
-		"on-click": "wlogout -b 2",
+		"on-click": "wlogout",
 		"tooltip": false
 	},
     "custom/notification": {
