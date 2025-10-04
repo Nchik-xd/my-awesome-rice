@@ -16,7 +16,8 @@
 
 	// Modules center
 	"modules-center": [
-		"hyprland/workspaces"
+		"hyprland/workspaces",
+		"sway/workspaces"
 	],
 
 	// Modules right
