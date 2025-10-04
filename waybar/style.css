@@ -26,7 +26,7 @@ tooltip {
   margin-right: 5px;
   margin-left: 5px;
   padding: 0px 3px 0px 0px;
-  background-color: @background;
+  background-color: rgba(0, 0, 0, 0);
 }
 #backlight-slider slider {
   min-height: 0px;
@@ -40,7 +40,7 @@ tooltip {
   min-height: 10px;
   min-width: 25px;
   border-radius: 5px;
-  background-color: rgba(255, 255, 0, 1);
+  background-color: rgba(0, 0, 0, 1);
 }
 #backlight-slider highlight {
   min-width: 10px;
@@ -59,10 +59,10 @@ tooltip {
   margin-left: 5px;
   padding-right: 10px;
   padding-left: 10px;
-  background-color: @background;
+  background-color: rgba(255, 255, 0, 0);
 }
 #battery.warning {
-  color: @color2;
+  color: rgba(255, 255, 0, 1);
 }
 #battery.critical {
   color: red;
@@ -73,7 +73,7 @@ tooltip {
 #net {
   margin-right: 5px;
   margin-left: 5px;
-  background-color: @background;
+  background-color: rgba(255, 255, 0, 0)
 }
 #bluetooth {
   margin-right: 10px;
@@ -91,11 +91,11 @@ tooltip {
   margin-left: 5px;
   padding-right: 10px;
   padding-left: 10px;
-  background-color: @color2;
+  background-color: rgba(0, 0, 0, 0);
   font-weight: bold;
   border: solid;
   border-width: 3px;
-  border-color: @background;
+  border-color: rgba(0, 0, 0, 0);
 }
 
 /* wireplumber */
@@ -103,23 +103,23 @@ tooltip {
 #wireplumber {
   margin: 0px 5px 0px;
   padding: 0px 5px 0px;
-  background-color: @background;
+  background-color: rgba(0, 0, 0, 0);
 }
 
 /* workspaces */
 
 #workspaces {
-  margin: 0px 5px 0px;
-  padding: 0px 5px 0px;
-  background-color: @background;
-  border-radius: 20px;
+  margin: 0px 0px 0px;
+  padding: 0px 0px 0px;
+  background-color: rgba(255, 255, 0, 0);
+  border-radius: 0px;
 }
 #workspaces button {
   min-height: 1px;
   padding: 4px 4px;
   margin: 5px 2px;
   border-radius: 20px;
-  background-color: @background;
+  background-color: rgba(0, 0, 0, 0);
   transition: padding 0.4s;
   box-shadow: none;
 }
@@ -129,7 +129,7 @@ tooltip {
   transition: padding 0.4s;
 }
 #workspaces button:hover {
-  background: @foreground;
+  background: rgba(255, 255, 0, 1);
   border: none;
 }
 
@@ -139,30 +139,30 @@ tooltip {
   margin: 0px 5px 0px;
 }
 #taskbar button {
-  background: @background;
+  background: rgba(0, 0, 0, 0);
   margin: 0px 5px 0px;
   box-shadow: none;
 }
 #taskbar button:hover {
-  background: @color2;
+  background: rgba(0, 0, 0, 0);
 }
 
 /* Updates */
 
 #custom-updates {
-  background-color: @background;
+  background-color: rgba(0, 0, 0, 0);
   margin: 0px 5px 0px;
   padding: 0px 10px 0px 8px;
-  background-color: @color2;
+  background-color: rgba(0, 0, 0, 0);
   border: solid;
   border-width: 3px;
-  border-color: @foreground;
+  border-color: rgba(0, 0, 0, 0);
 }
 
 /* Shutdown */
 
 #custom-shutdown {
-  background-color: @background;
+  background-color: rgba(0, 0, 0, 0);
   margin: 0px 5px 0px;
   padding: 0px 13px 0px 10px;
 }
@@ -172,5 +172,5 @@ tooltip {
   margin-right: 5px;
   margin-left: 5px;
   padding: 0px 12px 0px 8px;
-  background-color: @background;
+  background-color: rgba(0, 0, 0, 0);
 }

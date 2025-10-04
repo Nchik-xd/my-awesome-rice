@@ -105,11 +105,11 @@
 		],
 		"tooltip": false
 	},
-	"wireplumber": {
+	"pipewire": {
 		"format": " {volume}% {icon} ",
 		"format-muted": " ",
-		"on-click": "helvum",
-		"format-icons": ["", "", ""],
+		"on-click": "pavucontrol",
+		"format-icons": ["󰕿", "󰖀", "󰕾"],
 		"tooltip": false
 	},
 	"hyprland/workspaces": {
