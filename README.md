@@ -1,3 +1,5 @@
+!!!**THIS IS IMPORTANT, PLEASE, READ THIS BEFORE PASTE THE HYPRLAND CONFIG**!!!
+
 This rice was maded with Hyprland, Rofi and Waybar. Be careful if you have NIX OS cuz this race made on Arch linux
 
 WM: Hyprland
@@ -24,12 +26,16 @@ Open music player: Super+X
 
 Open ur code editor: Super+Z
 
-Open btop: Super+O
+Hyprlock: Super+L
 
-Open AmneziaVpn: Super+U (Idk why i added this lol)
+Open btop: Super+H
+
+Make a screenshot of monitor: Super+I
+
+Pseudo: Super+G
+
+Toggle Split: Super+F
 
 Move windows: Super+Shift+Arrows
 
 Resize windows: Super+Ctrl+Arrows
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8cadb1f2-e7ad-45cb-a5cd-6d90502abb35" />
