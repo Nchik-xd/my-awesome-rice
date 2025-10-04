@@ -18,9 +18,11 @@ Open Rofi: Super+D
 
 Floating window: Super+A
 
-Open browser: (ZEN BROWSER FLATPAK VERSION): Super+C
+Open your browser: Super+C
 
-Open yt music: Super+V
+Open music player: Super+X
+
+Open ur code editor: Super+Z
 
 Open btop: Super+O
 
