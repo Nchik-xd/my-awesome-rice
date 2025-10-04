@@ -16,6 +16,8 @@ Terminal: Super+Q
 
 Close window: Super+W
 
+Open file manager: Super+E
+
 Open Rofi: Super+D
 
 Floating window: Super+A
