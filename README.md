@@ -41,3 +41,6 @@ Toggle Split: Super+F
 Move windows: Super+Shift+Arrows
 
 Resize windows: Super+Ctrl+Arrows
+
+<img width="1920" height="1080" alt="изображение" src="https://github.com/user-attachments/assets/46985ca5-9117-4fc8-bb0a-bc8f1bce5af8" />
+
